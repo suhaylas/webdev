@@ -1,13 +1,13 @@
-* p {
-	color: blue;
+p {
+	color: black;
 	font-family: Arial, Verdana, san-serif
 }
 body {
 	background: #;
 }
 p {
-	color: blue;
-	background-color: black
+	color: black;
+	background-color: white
 }
 h1{
 	font-family: 'Lobster Two', cursive;
