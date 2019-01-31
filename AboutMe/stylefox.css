@@ -1,0 +1,15 @@
+.fox {
+	color: white;
+	background: pink;
+}
+.dog {
+	color: blue;
+	background: pink;
+}
+body {
+	border: 3px yellow dotted;
+	width: 240px;
+	padding: 15px 30px 15px 30px; 
+	background-color: pink;
+	background-clip: initial;
+}
